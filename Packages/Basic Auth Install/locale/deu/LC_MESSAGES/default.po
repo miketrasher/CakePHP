@@ -1,0 +1,30 @@
+#Default
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "Modified"
+msgstr "Geändert"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "View"
+msgstr "Ansehen"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sind Sie sicher, dass Sie \"%s\" löschen möchten?"
+
+msgid "Submit"
+msgstr "speichern"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Email"
+msgstr "E-Mail"

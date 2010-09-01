@@ -1,0 +1,27 @@
+#User
+msgid "User"
+msgstr "Benutzer"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Add User"
+msgstr "Benutzer hinzufügen"
+
+msgid "Edit User"
+msgstr "Benutzer bearbeiten"
+
+msgid "List Users"
+msgstr "Alle Benutzer anzeigen"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "I lost my password"
+msgstr "Ich habe mein Passwort vergessen"
+
+msgid "Login"
+msgstr "Anmelden"
